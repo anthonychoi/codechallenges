@@ -1,1 +1,1 @@
-Blog about things I've encountered on websites that host programming challenges.
+Tidbits and lessons learned by coding.
