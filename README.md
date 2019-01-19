@@ -1,1 +1,3 @@
-Tidbits and lessons learned by coding.
+Two Codes, No Cents
+
+# WORK IN PROGRESS
